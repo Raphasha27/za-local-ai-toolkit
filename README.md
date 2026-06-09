@@ -27,32 +27,7 @@ ollama run llama3.2:3b
 ## Use Cases
 
 | Sector | Use Case | Tools |
-|--------|----------|-------|
-| Schools | Offline AI tutor, lesson planning | Ollama + Open WebUI |
-| SMEs | Document search, customer FAQ | Ollama + RAG pipeline |
-| Accounting | Report generation, policy lookup | Ollama + LangChain |
-| Real Estate | Property description generator | Ollama + custom prompts |
-| Legal | Contract summarization (local only) | Ollama + document parser |
-| Medical | Internal knowledge base (offline) | Ollama + vector database |
-
-## Toolkit Contents
-
-- `launcher/` — One-click setup scripts for Windows, macOS, Linux
-- `rag/` — Retrieval-Augmented Generation pipeline templates
-- `webui/` — Open WebUI Docker Compose configuration
-- `docs/` — Setup guides, troubleshooting, best practices
-- `examples/` — Sample applications for each use case
-
-## Getting Started as a Contributor
-
-1. Pick an issue labeled `good-first-issue`
-2. Fork the repo
-3. Submit a PR
-4. Join the discussion in [Discussions](https://github.com/Raphasha27/za-local-ai-toolkit/discussions)
-
-## License
-
-<br/>
+|--------|----------|----
 ## Product Ladder
 
 ```
@@ -60,13 +35,13 @@ GitHub (this repo)
     ↓
 Portfolio → https://raphasha27.github.io/raphasha-dev-portfolio
     ↓
-Case Study → (coming soon)
+Case Study → https://github.com/Raphasha27/za-local-ai-toolkit/blob/main/CASE_STUDY.md
     ↓
-Live Demo → (check the badges above)
+Live Demo → https://github.com/Raphasha27/za-local-ai-toolkit
     ↓
 Contact → https://github.com/Raphasha27
 ```
 
-Part of the [Kirov Dynamics Technology](https://github.com/Raphasha27) ecosystem.
+Part of the [Kirov Dynamics](https://github.com/Raphasha27/kirov-dynamics) ecosystem.
 
 **Built by Koketso Raphasha — Practical AI for Africa**

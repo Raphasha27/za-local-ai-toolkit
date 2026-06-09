@@ -28,6 +28,11 @@ ollama run llama3.2:3b
 
 | Sector | Use Case | Tools |
 |--------|----------|----
+
+## Documentation
+
+- [Prompting Guide for Local AI](docs/PROMPTING_GUIDE.md) — Getting reliable outputs from local models
+
 ## Product Ladder
 
 ```

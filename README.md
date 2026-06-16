@@ -1,4 +1,19 @@
+<div align="center">
+
 # South African Local AI Toolkit
+
+**Private, offline AI for SA schools, SMEs, NGOs, and entrepreneurs**
+
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-Focused-FF4500?style=for-the-badge)](SECURITY.md)
+
+[![AI Business Engine](https://img.shields.io/badge/Powered_by-AI_Business_Engine-8B5CF6?style=for-the-badge)](https://github.com/Raphasha27/AI-Business-Engine)
+[![Kirov Dynamics](https://img.shields.io/badge/Part_of-Kirov_Dynamics-0EA5E9?style=for-the-badge)](https://github.com/Raphasha27/kirov-dynamics)
+
+**Built by [Koketso Raphasha](https://github.com/Raphasha27) — Practical AI for Africa**
+
+</div>
 
 Private, offline AI for South African schools, SMEs, NGOs, and entrepreneurs using [Ollama](https://ollama.com).
 
@@ -29,6 +44,14 @@ ollama run llama3.2:3b
 | Sector | Use Case | Tools |
 |--------|----------|----
 
+## Ecosystem
+
+| Project | Description |
+|---------|-------------|
+| [AI-Business-Engine](https://github.com/Raphasha27/AI-Business-Engine) | Central AI orchestration and business logic engine |
+| [SA-Language-AI](https://github.com/Raphasha27/SA-Language-AI) | NLP for all 11 official SA languages |
+| [YouthCode-ZA](https://github.com/Raphasha27/YouthCode-ZA) | Coding education for South African youth |
+
 ## Documentation
 
 - [Prompting Guide for Local AI](docs/PROMPTING_GUIDE.md) — Getting reliable outputs from local models
@@ -47,6 +70,3 @@ Live Demo → https://github.com/Raphasha27/za-local-ai-toolkit
 Contact → https://github.com/Raphasha27
 ```
 
-Part of the [Kirov Dynamics](https://github.com/Raphasha27/kirov-dynamics) ecosystem.
-
-**Built by Koketso Raphasha — Practical AI for Africa**

@@ -1,3 +1,5 @@
+[![CI](https://github.com/Raphasha27/za-local-ai-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Raphasha27/za-local-ai-toolkit/actions/workflows/ci.yml)
+
 <div align="center">
 
 # South African Local AI Toolkit

@@ -16,4 +16,4 @@ jobs:
           python-version: '3.x'
       - run: pip install ruff pytest
       - run: ruff check .
-      - run: python -m pytest -xvs || true
+      - run: python -m pytest -xvs

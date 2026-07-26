@@ -1,6 +1,7 @@
-import ollama
-import sys
 import os
+import sys
+
+import ollama
 
 
 def search_documents(query, document_dir="docs"):

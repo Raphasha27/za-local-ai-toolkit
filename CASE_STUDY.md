@@ -56,5 +56,5 @@ Makes AI accessible where internet is not. A school in rural Limpopo or an SME i
 
 ## Links
 - **GitHub:** https://github.com/Raphasha27/za-local-ai-toolkit
-- **Portfolio:** https://raphasha27.github.io/raphasha-dev-portfolio
+- **Portfolio:** https://portfolio-iota-eight-90.vercel.app
 - **Author:** Koketso Raphasha — Practical AI for Africa

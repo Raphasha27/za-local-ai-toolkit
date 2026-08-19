@@ -63,7 +63,7 @@ ollama run llama3.2:3b
 ```
 GitHub (this repo)
     ↓
-Portfolio → https://raphasha27.github.io/raphasha-dev-portfolio
+Portfolio → https://portfolio-iota-eight-90.vercel.app
     ↓
 Case Study → https://github.com/Raphasha27/za-local-ai-toolkit/blob/main/CASE_STUDY.md
     ↓
@@ -71,4 +71,10 @@ Live Demo → https://github.com/Raphasha27/za-local-ai-toolkit
     ↓
 Contact → https://github.com/Raphasha27
 ```
+
+
+
+## Usage Instructions
+Framework detected: Python
+Open the HTML files directly in your browser or run a simple local web server (e.g. `npx serve` or `python -m http.server`).
 
